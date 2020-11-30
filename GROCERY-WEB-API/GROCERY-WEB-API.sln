@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GROCERY-WEB-API", "GROCERY-WEB-API.csproj", "{D1FF156C-4C40-436B-9FD2-B18EE423CB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FF156C-4C40-436B-9FD2-B18EE423CB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FF156C-4C40-436B-9FD2-B18EE423CB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FF156C-4C40-436B-9FD2-B18EE423CB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FF156C-4C40-436B-9FD2-B18EE423CB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BFE9DBE-BD3E-433D-95AB-73F376A3D39A}
+	EndGlobalSection
+EndGlobal
